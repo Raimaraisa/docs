@@ -1,5 +1,5 @@
 ---
-title: 'Quickstart for {% data variables.product.prodname_github_codespaces %}'
+title: 'Quickstart for {% data variables.product.prodname_github_codespaces
 shortTitle: 'Quickstart for {% data variables.product.prodname_codespaces %}'
 intro: 'Try out {% data variables.product.prodname_github_codespaces %} in 5 minutes.'
 allowTitleToDifferFromFilename: true
